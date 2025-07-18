@@ -39,7 +39,7 @@ const server = app.listen(PORT, () => {
 
 const io = socket(server,{
   cors:{
-    origin:"http://localhost:5173",
+    origin:"https://chat-app-1a3d.onrender.com",
     credentials:true
   },
 })
