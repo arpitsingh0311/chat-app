@@ -7,12 +7,6 @@ Pingly is a modern real-time chat application built with the MERN stack (MongoDB
 
 ---
 
-## 📸 Screenshot
-
-![Pingly UI](./5192d1d3-d10b-4767-9c2a-5e6af715af7d.png)
-
----
-
 ## 🧑‍💻 Features
 
 -  Real-time messaging with Socket.io
